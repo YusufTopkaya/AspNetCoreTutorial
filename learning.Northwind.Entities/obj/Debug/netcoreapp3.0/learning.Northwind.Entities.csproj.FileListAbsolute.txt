@@ -9,3 +9,14 @@ C:\Users\yusuf\source\repos\learning\learning.Northwind.Entities\obj\Debug\netco
 C:\Users\yusuf\source\repos\learning\learning.Northwind.Entities\obj\Debug\netcoreapp3.0\learning.Northwind.Entities.csproj.CopyComplete
 C:\Users\yusuf\source\repos\learning\learning.Northwind.Entities\obj\Debug\netcoreapp3.0\learning.Northwind.Entities.dll
 C:\Users\yusuf\source\repos\learning\learning.Northwind.Entities\obj\Debug\netcoreapp3.0\learning.Northwind.Entities.pdb
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.Entities\bin\Debug\netcoreapp3.0\learning.Northwind.Entities.deps.json
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.Entities\bin\Debug\netcoreapp3.0\learning.Northwind.Entities.dll
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.Entities\bin\Debug\netcoreapp3.0\learning.Northwind.Entities.pdb
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.Entities\bin\Debug\netcoreapp3.0\learning.core.dll
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.Entities\bin\Debug\netcoreapp3.0\learning.core.pdb
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.Entities\obj\Debug\netcoreapp3.0\learning.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.Entities\obj\Debug\netcoreapp3.0\learning.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.Entities\obj\Debug\netcoreapp3.0\learning.Northwind.Entities.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.Entities\obj\Debug\netcoreapp3.0\learning.Northwind.Entities.csproj.CopyComplete
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.Entities\obj\Debug\netcoreapp3.0\learning.Northwind.Entities.dll
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.Entities\obj\Debug\netcoreapp3.0\learning.Northwind.Entities.pdb

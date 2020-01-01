@@ -6,3 +6,11 @@ C:\Users\yusuf\source\repos\learning\learning.core\obj\Debug\netcoreapp3.0\learn
 C:\Users\yusuf\source\repos\learning\learning.core\bin\Debug\netcoreapp3.0\learning.core.pdb
 C:\Users\yusuf\source\repos\learning\learning.core\obj\Debug\netcoreapp3.0\learning.core.dll
 C:\Users\yusuf\source\repos\learning\learning.core\obj\Debug\netcoreapp3.0\learning.core.pdb
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.core\bin\Debug\netcoreapp3.0\learning.core.deps.json
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.core\bin\Debug\netcoreapp3.0\learning.core.dll
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.core\bin\Debug\netcoreapp3.0\learning.core.pdb
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.core\obj\Debug\netcoreapp3.0\learning.core.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.core\obj\Debug\netcoreapp3.0\learning.core.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.core\obj\Debug\netcoreapp3.0\learning.core.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.core\obj\Debug\netcoreapp3.0\learning.core.dll
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.core\obj\Debug\netcoreapp3.0\learning.core.pdb

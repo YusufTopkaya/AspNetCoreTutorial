@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using learning.Northwind.Entities.Concrete;
 
-namespace learning.Northwind.MvcWebUI.Models
+namespace learning.Northwind.MvcUI.Models
 {
     public class ProductListViewModel
     {

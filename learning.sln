@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learning.core", "learning.core\learning.core.csproj", "{C28F4069-E077-4759-AF4B-E74F62D75883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learning.core", "learning.core\learning.core.csproj", "{C28F4069-E077-4759-AF4B-E74F62D75883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learning.Northwind.Entities", "learning.Northwind.Entities\learning.Northwind.Entities.csproj", "{4988A8CA-9ACA-47E7-8B82-CDD6365B2C18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learning.Northwind.Entities", "learning.Northwind.Entities\learning.Northwind.Entities.csproj", "{4988A8CA-9ACA-47E7-8B82-CDD6365B2C18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learning.Northwind.DataAccess", "learning.Northwind.DataAccess\learning.Northwind.DataAccess.csproj", "{50108E21-2608-4B84-B244-7E231D479DC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learning.Northwind.DataAccess", "learning.Northwind.DataAccess\learning.Northwind.DataAccess.csproj", "{50108E21-2608-4B84-B244-7E231D479DC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learning.Northwind.Bussiness", "learning.Northwind.Bussiness\learning.Northwind.Bussiness.csproj", "{6E2312B4-6A2B-4169-8C74-0A5424AEF4B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learning.Northwind.Bussiness", "learning.Northwind.Bussiness\learning.Northwind.Bussiness.csproj", "{6E2312B4-6A2B-4169-8C74-0A5424AEF4B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learning.Northwind.MvcWebUI", "learning.Northwind.MvcWebUI\learning.Northwind.MvcWebUI.csproj", "{4AF8F16C-4B46-413F-9608-570F6A6B7138}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learning.Northwind.MvcUI", "learning.Northwind.MvcUI\learning.Northwind.MvcUI.csproj", "{C4097095-A1B7-4BE0-B0AB-8C0EBFBB31FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{6E2312B4-6A2B-4169-8C74-0A5424AEF4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E2312B4-6A2B-4169-8C74-0A5424AEF4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E2312B4-6A2B-4169-8C74-0A5424AEF4B2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4AF8F16C-4B46-413F-9608-570F6A6B7138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4AF8F16C-4B46-413F-9608-570F6A6B7138}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4AF8F16C-4B46-413F-9608-570F6A6B7138}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4AF8F16C-4B46-413F-9608-570F6A6B7138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4097095-A1B7-4BE0-B0AB-8C0EBFBB31FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4097095-A1B7-4BE0-B0AB-8C0EBFBB31FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4097095-A1B7-4BE0-B0AB-8C0EBFBB31FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4097095-A1B7-4BE0-B0AB-8C0EBFBB31FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,5 @@
 ﻿using learning.Northwind.Bussiness.Abstract;
+using learning.Northwind.MvcUI.Models;
 using learning.Northwind.MvcWebUI.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;

@@ -21,4 +21,8 @@
     <ProjectReference Include="..\learning.Northwind.Bussiness\learning.Northwind.Bussiness.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Shared\Components\CategoryList\" />
+  </ItemGroup>
+
 </Project>
