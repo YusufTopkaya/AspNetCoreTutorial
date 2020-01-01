@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\learning.core\learning.core.csproj" />
+    <ProjectReference Include="..\learning.Northwind.DataAccess\learning.Northwind.DataAccess.csproj" />
+    <ProjectReference Include="..\learning.Northwind.Entities\learning.Northwind.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

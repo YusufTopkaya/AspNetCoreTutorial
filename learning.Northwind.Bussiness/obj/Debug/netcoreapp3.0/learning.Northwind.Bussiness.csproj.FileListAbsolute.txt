@@ -1,0 +1,15 @@
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\bin\Debug\netcoreapp3.0\learning.Northwind.Bussiness.deps.json
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\bin\Debug\netcoreapp3.0\learning.Northwind.Bussiness.dll
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\bin\Debug\netcoreapp3.0\learning.Northwind.Bussiness.pdb
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\bin\Debug\netcoreapp3.0\learning.core.dll
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\bin\Debug\netcoreapp3.0\learning.Northwind.DataAccess.dll
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\bin\Debug\netcoreapp3.0\learning.Northwind.Entities.dll
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\bin\Debug\netcoreapp3.0\learning.core.pdb
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\bin\Debug\netcoreapp3.0\learning.Northwind.DataAccess.pdb
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\bin\Debug\netcoreapp3.0\learning.Northwind.Entities.pdb
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\obj\Debug\netcoreapp3.0\learning.Northwind.Bussiness.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\obj\Debug\netcoreapp3.0\learning.Northwind.Bussiness.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\obj\Debug\netcoreapp3.0\learning.Northwind.Bussiness.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\obj\Debug\netcoreapp3.0\learning.Northwind.Bussiness.csproj.CopyComplete
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\obj\Debug\netcoreapp3.0\learning.Northwind.Bussiness.dll
+C:\Users\yusuf\source\repos\learning\learning.Northwind.Bussiness\obj\Debug\netcoreapp3.0\learning.Northwind.Bussiness.pdb

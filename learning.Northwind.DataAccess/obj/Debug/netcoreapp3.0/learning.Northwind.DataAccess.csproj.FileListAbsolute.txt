@@ -1,0 +1,13 @@
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\bin\Debug\netcoreapp3.0\learning.core.dll
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\bin\Debug\netcoreapp3.0\learning.Northwind.Entities.dll
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\obj\Debug\netcoreapp3.0\learning.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\obj\Debug\netcoreapp3.0\learning.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\obj\Debug\netcoreapp3.0\learning.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\bin\Debug\netcoreapp3.0\learning.Northwind.DataAccess.deps.json
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\bin\Debug\netcoreapp3.0\learning.Northwind.DataAccess.dll
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\bin\Debug\netcoreapp3.0\learning.Northwind.DataAccess.pdb
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\bin\Debug\netcoreapp3.0\learning.Northwind.Entities.pdb
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\bin\Debug\netcoreapp3.0\learning.core.pdb
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\obj\Debug\netcoreapp3.0\learning.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\obj\Debug\netcoreapp3.0\learning.Northwind.DataAccess.dll
+C:\Users\yusuf\source\repos\learning\learning.Northwind.DataAccess\obj\Debug\netcoreapp3.0\learning.Northwind.DataAccess.pdb
