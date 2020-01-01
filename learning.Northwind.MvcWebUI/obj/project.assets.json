@@ -5525,11 +5525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.MvcWebUI\\learning.Northwind.MvcWebUI.csproj",
+      "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.MvcWebUI\\learning.Northwind.MvcWebUI.csproj",
       "projectName": "learning.Northwind.MvcWebUI",
-      "projectPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.MvcWebUI\\learning.Northwind.MvcWebUI.csproj",
+      "projectPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.MvcWebUI\\learning.Northwind.MvcWebUI.csproj",
       "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.MvcWebUI\\obj\\",
+      "outputPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.MvcWebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5545,8 +5545,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.Bussiness\\learning.Northwind.Bussiness.csproj": {
-              "projectPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.Bussiness\\learning.Northwind.Bussiness.csproj"
+            "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.Bussiness\\learning.Northwind.Bussiness.csproj": {
+              "projectPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.Bussiness\\learning.Northwind.Bussiness.csproj"
             }
           }
         }

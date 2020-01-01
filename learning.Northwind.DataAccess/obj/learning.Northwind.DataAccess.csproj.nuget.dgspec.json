@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.DataAccess\\learning.Northwind.DataAccess.csproj": {}
+    "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.DataAccess\\learning.Northwind.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusuf\\source\\repos\\learning\\learning.core\\learning.core.csproj": {
+    "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.core\\learning.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.core\\learning.core.csproj",
+        "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.core\\learning.core.csproj",
         "projectName": "learning.core",
-        "projectPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.core\\learning.core.csproj",
+        "projectPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.core\\learning.core.csproj",
         "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.core\\obj\\",
+        "outputPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.DataAccess\\learning.Northwind.DataAccess.csproj": {
+    "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.DataAccess\\learning.Northwind.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.DataAccess\\learning.Northwind.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.DataAccess\\learning.Northwind.DataAccess.csproj",
         "projectName": "learning.Northwind.DataAccess",
-        "projectPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.DataAccess\\learning.Northwind.DataAccess.csproj",
+        "projectPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.DataAccess\\learning.Northwind.DataAccess.csproj",
         "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.Entities\\learning.Northwind.Entities.csproj": {
-                "projectPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.Entities\\learning.Northwind.Entities.csproj"
+              "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.Entities\\learning.Northwind.Entities.csproj": {
+                "projectPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.Entities\\learning.Northwind.Entities.csproj"
               }
             }
           }
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.Entities\\learning.Northwind.Entities.csproj": {
+    "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.Entities\\learning.Northwind.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.Entities\\learning.Northwind.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.Entities\\learning.Northwind.Entities.csproj",
         "projectName": "learning.Northwind.Entities",
-        "projectPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.Entities\\learning.Northwind.Entities.csproj",
+        "projectPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.Entities\\learning.Northwind.Entities.csproj",
         "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.Northwind.Entities\\obj\\",
+        "outputPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.Northwind.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,8 +147,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\yusuf\\source\\repos\\learning\\learning.core\\learning.core.csproj": {
-                "projectPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.core\\learning.core.csproj"
+              "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.core\\learning.core.csproj": {
+                "projectPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.core\\learning.core.csproj"
               }
             }
           }

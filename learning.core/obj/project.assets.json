@@ -706,11 +706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.core\\learning.core.csproj",
+      "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.core\\learning.core.csproj",
       "projectName": "learning.core",
-      "projectPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.core\\learning.core.csproj",
+      "projectPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.core\\learning.core.csproj",
       "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yusuf\\source\\repos\\learning\\learning.core\\obj\\",
+      "outputPath": "C:\\Users\\yusuf\\source\\repos\\AspNetCoreTutorial\\learning.core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
