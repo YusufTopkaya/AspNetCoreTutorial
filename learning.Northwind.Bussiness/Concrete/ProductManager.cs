@@ -32,7 +32,12 @@ namespace learning.Northwind.Bussiness.Concrete
 
         public List<Product> GetByCategoryId(int categoryId)
         {
-            return  categoryId == 0 ?  _productDal.GetList() : _productDal.GetList(p => p.CategoryId == categoryId);
+            return categoryId == 0 ? _productDal.GetList() : _productDal.GetList(p => p.CategoryId == categoryId);
+        }
+
+        public Product GetById(int productId)
+        {
+            return _productDal.Get(x => x.ProductId == productId);
         }
 
         public void Update(Product product)

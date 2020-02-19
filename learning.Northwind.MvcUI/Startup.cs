@@ -13,6 +13,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using learning.Northwind.MvcUI.Middlewares;
+using learning.Northwind.MvcUI.Services;
+using Microsoft.AspNetCore.Http;
 
 namespace learning.Northwind.MvcUI
 {
@@ -28,12 +30,18 @@ namespace learning.Northwind.MvcUI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSingleton<ICartSessionService, CartSessionService>();
+            services.AddSingleton<ICartService, CartService>();
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddScoped<IProductService, ProductManager>();
             services.AddScoped<IProductDal, EfProductDal>();
             services.AddScoped<ICategoryService, CategoryManager>();
             services.AddScoped<ICategoryDal, EfCategoryDal>();
-
+           
+            services.AddSession();
+            services.AddDistributedMemoryCache();
             services.AddControllersWithViews();
+         
 
         }
 
@@ -47,6 +55,7 @@ namespace learning.Northwind.MvcUI
             app.UseStaticFiles();
             app.UseNodeModules(env.ContentRootPath);
             app.UseRouting();
+            app.UseSession();
 
             app.UseEndpoints(endpoints =>
             {
