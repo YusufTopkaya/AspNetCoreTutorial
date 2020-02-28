@@ -29,7 +29,7 @@ namespace learning.Northwind.MvcUI.Services
 
         public void SetCart(Cart cart)
         {
-            _httpContextAccesor.HttpContext.Session.SetObject("cart", new Cart());
+            _httpContextAccesor.HttpContext.Session.SetObject("cart", cart);
         }
     }
 }

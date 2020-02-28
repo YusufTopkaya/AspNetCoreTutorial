@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using learning.Northwind.Bussiness.Abstract;
+using learning.Northwind.MvcUI.Models;
 using learning.Northwind.MvcUI.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -30,6 +31,28 @@ namespace learning.Northwind.MvcUI.Controllers
             TempData.Add("message", String.Format("Your product, {0}, was successfully added to the cart",productToBeAdded.ProductName));
             return RedirectToAction("Index", "Product");
         }
+
+        public ActionResult List()
+        {
+            var cart = _cartSessionService.GetCart();
+            CartListViewModel cartListViewModel = new CartListViewModel
+            {
+                Cart = cart
+            };
+            return View(cartListViewModel);
+        }
+
+
+        public ActionResult Remove(int productId)
+        {
+            var cart = _cartSessionService.GetCart();
+            _cartService.RemoveFromCart(cart,productId);
+            _cartSessionService.SetCart(cart);
+            TempData.Add("message", String.Format("Your product was successfully removed from the cart"));
+            return RedirectToAction("List");
+
+        }
+
     }
 
 

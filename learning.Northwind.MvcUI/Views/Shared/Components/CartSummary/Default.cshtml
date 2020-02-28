@@ -1,0 +1,13 @@
+﻿@using Microsoft.EntityFrameworkCore.Metadata.Conventions
+@model learning.Northwind.MvcUI.Models.CartListViewModel
+
+<ul class="dropdown-menu" style="padding: 10px" area-labelledby="navbarDropdown">
+    @foreach (var item in Model.Cart.CartLines)
+    {
+    <li>@item.Product.ProductName <span class="badge">@item.Quantity</span></li>
+    }
+    <li role="seperator" class="dropdown-divider"></li>
+    <li><a>@Model.Cart.Total</a></li>
+    <li role="seperator" class="dropdown-divider"></li>
+    <li><a asp-controller="Cart" asp-action="List">Go to Cart Details</a></li>
+</ul>
