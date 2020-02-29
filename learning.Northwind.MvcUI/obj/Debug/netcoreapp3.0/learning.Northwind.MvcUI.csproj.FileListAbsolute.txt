@@ -152,3 +152,4 @@ C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.MvcUI\obj\Debu
 C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.MvcUI\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
 C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.MvcUI\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
 C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.MvcUI\obj\Debug\netcoreapp3.0\Razor\Views\Cart\List.cshtml.g.cs
+C:\Users\yusuf\source\repos\AspNetCoreTutorial\learning.Northwind.MvcUI\obj\Debug\netcoreapp3.0\Razor\Views\Cart\Complete.cshtml.g.cs

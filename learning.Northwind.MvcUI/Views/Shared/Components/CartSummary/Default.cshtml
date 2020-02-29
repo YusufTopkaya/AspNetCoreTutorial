@@ -1,7 +1,7 @@
 ﻿@using Microsoft.EntityFrameworkCore.Metadata.Conventions
 @model learning.Northwind.MvcUI.Models.CartListViewModel
 
-<ul class="dropdown-menu" style="padding: 10px" area-labelledby="navbarDropdown">
+<ul class="dropdown-menu" style="padding: 10px" aria-labelledby="navbarDropdown">
     @foreach (var item in Model.Cart.CartLines)
     {
     <li>@item.Product.ProductName <span class="badge">@item.Quantity</span></li>

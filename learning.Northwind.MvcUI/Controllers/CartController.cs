@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using learning.Northwind.Bussiness.Abstract;
+using learning.Northwind.Entities.Concrete;
 using learning.Northwind.MvcUI.Models;
 using learning.Northwind.MvcUI.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -51,6 +52,26 @@ namespace learning.Northwind.MvcUI.Controllers
             TempData.Add("message", String.Format("Your product was successfully removed from the cart"));
             return RedirectToAction("List");
 
+        }
+
+        public ActionResult Complete()
+        {
+            var shippingDetailsViewModel = new ShippingDetailsViewModel
+            {
+                ShippingDetails=new ShippingDetails()
+            };
+            return View(shippingDetailsViewModel);
+        }
+
+        [HttpPost]
+        public ActionResult Complete(ShippingDetails shippingDetails)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+            TempData.Add("message",String.Format("Thank you {0}, your order is submitted.",shippingDetails.FirstName));
+            return View();
         }
 
     }
